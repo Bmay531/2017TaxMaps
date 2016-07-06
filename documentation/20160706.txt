@@ -1,0 +1,11 @@
+Setting up new project repo:
+
+in Projects/2017TaxMaps:
+git init
+
+On GitHUb:
+create new repository
+
+In git:
+git remote add origin https://github.com/Bmay531/2017TaxMaps.git
+git push -u origin master
